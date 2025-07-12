@@ -69,12 +69,6 @@
 
 ---
 
-## 📸 Screenshots
-
-![Chat Screenshot](./screenshots/chat.png)
-
----
-
 ## 🤝 Contribution
 
 1. Fork the repo  
